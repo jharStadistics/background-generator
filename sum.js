@@ -5,4 +5,4 @@ const  letter=['a','b','c','d'];
 const sum = num.reduce((a,b)=> a+b);
 console.log(`the total is ${sum}`);
 
-console.log(`the quantity of letter is ${letter.length}`);
+console.log(`the quantity of letters is ${letter.length}`);
